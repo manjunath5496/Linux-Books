@@ -2,9 +2,8 @@
  <b>date</b> </br></br>
   date command is used to display the system date and time
         
-        
-            <p>cal</p>
-            <p>cal command is used to display the calendar</p>
+<b>cal</b></br></br>
+   cal command is used to display the calendar
         
         
             <p>date & cal </p>
