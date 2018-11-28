@@ -1,7 +1,6 @@
 
-        
-            <p>date</p>
-            <p>date command is used to display the system date and time</p>
+  <b>date</b>
+  date command is used to display the system date and time
         
         
             <p>cal</p>
