@@ -149,24 +149,24 @@
             uname -v command is used to print the kernel version</br></br><hr>
         
         
-            <p>uname -o </p>
-            <p>uname -o command is used to print the name of the operating system</p>
+   39. <b>uname -o </b></br></br>
+            uname -o command is used to print the name of the operating system</br></br><hr>
         
         
-            <p>uname -m </p>
-            <p>uname -m command is used to report the machine hardware name</p>
+  40. <b>uname -m </b></br></br>
+            uname -m command is used to report the machine hardware name</br></br><hr>
         
         
-            <p>uname --version </p>
-            <p>uname --version command is used to print the version information and exit</p>
+  41. <b>uname --version </b></br></br>
+            uname --version command is used to print the version information and exit</br></br><hr>
         
         
-            <p>uname -r </p>
-            <p>uname -r command is used to print the kernel release</p>
+   42. <b>uname -r </b></br></br>
+            uname -r command is used to print the kernel release</br></br><hr>
         
         
-            <p>uname -n </p>
-            <p>uname -n command is used to report the network node hostname</p>
+   43. <b>uname -n </b></br></br>
+            uname -n command is used to report the network node hostname</br></br><hr>
         
         
             <p>logname </p>
