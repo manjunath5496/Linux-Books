@@ -137,16 +137,16 @@
             top command is used to provide a quick overview of the currently running processes</br></br><hr>
         
         
-            <p>mount </p>
-            <p> mount command is used to view mounted file systems </p>
+  36. <b>mount </b></br></br>
+            mount command is used to view mounted file systems </br></br><hr>
         
         
-            <p>uname </p>
-            <p>uname command is used to report the name of the kernel</p>
+   37. <b>uname </b></br></br>
+            uname command is used to report the name of the kernel</br></br><hr>
         
         
-            <p>uname -v </p>
-            <p>uname -v command is used to print the kernel version</p>
+   38. <b>uname -v </b></br></br>
+            uname -v command is used to print the kernel version</br></br><hr>
         
         
             <p>uname -o </p>
