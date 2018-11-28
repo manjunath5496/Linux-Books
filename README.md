@@ -25,20 +25,20 @@
             free command is used to display the free and used system memory</br></br>
         
         
-            <p>free -b </p>
-            <p>free -b command is used to display the free and used system memory in bytes</p>
+   8. <b>free -b </b></br></br>
+            free -b command is used to display the free and used system memory in bytes</br></br>
         
         
-            <p>free -k </p>
-            <p>free -k command is used to display the free and used system memory in kilobytes</p>
+  9. <b>free -k </b></br></br>
+            free -k command is used to display the free and used system memory in kilobytes</br></br>
         
         
-            <p>free -m </p>
-            <p>free -m command is used to display the free and used system memory in megabytes</p>
+   10. <b>free -m </b></br></br>
+            free -m command is used to display the free and used system memory in megabytes</br></br>
         
         
-            <p>passwd </p>
-            <p>passwd command is used to change user password</p>
+   11. <b>passwd </b></br></br>
+            passwd command is used to change user password</br></br>
         
         
             <p>date -- set 1998-11-02 </p>
