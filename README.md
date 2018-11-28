@@ -1,11 +1,4 @@
-<table>
-    <thead>
-        <tr>
-            <th>Command</th>
-            <th>Description</th>
-        </tr>
-    </thead>
-    <tbody>
+
         <tr>
             <td>date</td>
             <td>date command is used to display the system date and time</td>
@@ -753,5 +746,4 @@
             <td>zcat 2.txt.gz </td>
             <td>zcat 2.txt.gz command is used to display the content of the gzip compressed text file (2.txt.gz) </td>
         </tr>
-    </tbody>
-</table>
+
