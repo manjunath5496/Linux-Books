@@ -85,28 +85,28 @@
             netstat -au command is used to display only UDP (User Datagram Protocol ) port connections</br></br><hr>
         
         
-            <p>netstat -I </p>
-            <p>netstat -I command is used to display all active listening ports connections</p>
+  23. <b>netstat -I </b></br></br>
+            netstat -I command is used to display all active listening ports connections</br></br><hr>
         
         
-            <p>netstat -It </p>
-            <p>netstat -It command is used to display all active listening TCP ports</p>
+ 24. <b>netstat -It </b></br></br>
+            netstat -It command is used to display all active listening TCP ports</br></br><hr>
         
         
-            <p>netstat -lu </p>
-            <p>netstat -lu command is used to display all active listening UDP ports</p>
+  25. <b>netstat -lu </b></br></br>
+            netstat -lu command is used to display all active listening UDP ports</br></br><hr>
         
         
-            <p>netstat -lx </p>
-            <p>netstat -lx command is used to display all active UNIX listening ports</p>
+  26.  <b>netstat -lx </b></br></br>
+            netstat -lx command is used to display all active UNIX listening ports</br></br><hr>
         
         
-            <p>ifconfig </p>
-            <p>ifconfig command is used to display all the active interfaces details</p>
+   27. <b>ifconfig </b></br></br>
+            ifconfig command is used to display all the active interfaces details</br></br> <hr>
         
         
-            <p>ifconfig -a </p>
-            <p>ifconfig -a command is used to display information of all network interfaces</p>
+   28. <b>ifconfig -a </b></br></br>
+            ifconfig -a command is used to display information of all network interfaces</br></br><hr>
         
         
             <p>cd </p>
