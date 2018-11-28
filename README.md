@@ -9,10 +9,8 @@
             date & cal command is used to display the system date, time and calendar
         
         
-        
-        
-            <p>cal 8 2016 </p>
-            <p>cal 8 2016 command is used to display the August month 2016 year calendar</p>
+ 4. <b>cal 8 2016 </b></br></br>
+            cal 8 2016 command is used to display the August month 2016 year calendar
         
         
             <p>clear </p>
