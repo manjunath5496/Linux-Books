@@ -475,19 +475,16 @@ vi command is used to open vi editor </br> </br>
 i command is used to go to insert mode </br></br>
 <b> a =20; b =64; print (a + b); </b> </br></br>
 python program to add two numbers </br></br>
+<b> Hit Escape to return to Normal mode. </b> </br></br>
+<b> :w hello.py </b> </br></br>
+:w hello.py command is used to save text by name (hello.py)</br></br>
+<b> :q  </b> </br></br>
+:q command is used to quit the vi editor</br></br>
+<b> python hello.py  </b> </br></br>
+python hello.py command is used to execute the file (hello.py) to print the output: 84 </br> </br><hr>
 
-
-
-
-
-i </br>a =20; b =64; print (a + b);</br>Hit Escape to return to Normal mode.</br> :w hello.py </br>:q </br>python hello.py </b></br></br> <hr>
-            <b> </br>python program to add two numbers</br>
-                </br>
-                </br>:w hello.py command is used to save text by name (hello.py)</br>:q command is used to quit the vi editor</br>python hello.py command is used to execute the file (hello.py) to print the output: 84 </b></br></br> <hr>
-        
-        
-            <b>:q! </b></br></br> <hr>
-            <b>:q! command is used to quit the vi editor without saving the text </b></br></br> <hr>
+141. <b>:q! </b></br></br> 
+       :q! command is used to quit the vi editor without saving the text </br></br> <hr>
         
         
             <b>echo "Hello world!" >> 1.txt </br> echo "this is 2nd line text" >> 1.txt </br>echo "last line!" >> 1.txt </b></br></br> <hr>
