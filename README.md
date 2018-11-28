@@ -315,45 +315,35 @@
 90. <b>whatis ls </b></br></br> 
            whatis ls command is used to display a single line description about ls command </br></br> <hr>
         
+91. <b>cal -3 </b></br></br> 
+            cal -3 command is used to display last month, current month, and next month calendar </br></br> <hr>
         
-            <b>cal -3 </b></br></br> <hr>
-            <b>cal -3 command is used to display last month, current month, and next month calendar </b></br></br> <hr>
+92. <b>history </b></br></br> 
+            history command is used to display the command history </br></br> <hr>
         
+93. <b>sudo reboot </b></br></br> 
+            sudo reboot command is used to power off or reboot the system </br></br> <hr>
         
-            <b>history </b></br></br> <hr>
-            <b>history command is used to display the command history </b></br></br> <hr>
+94. <b>ping google.com </b></br></br> 
+            ping google.com command is used to check the network connectivity between host (your connection) and server (Google server) </br></br> <hr>
         
+95. <b>useradd "lmartin" </b></br></br>
+            useradd "lmartin" command is used to create a new user named lmartin </br></br> <hr>
         
-            <b>sudo reboot </b></br></br> <hr>
-            <b>sudo reboot command is used to power off or reboot the system </b></br></br> <hr>
+96. <b>passwd "lmartin" </b></br></br> 
+           passwd "lmartin" command is used to assign password for user lmartin </br></br> <hr>
         
+97.  <b>passwd -d lmartin </b></br></br> 
+          passwd -d lmartin command is used to disable password for user lmartin</br></br> <hr>
         
-            <b>ping google.com </b></br></br> <hr>
-            <b>ping google.com command is used to check the network connectivity between host (your connection) and server (Google server) </b></br></br> <hr>
+98. <b>info </b></br></br> 
+        info command is used to list a few useful info commands</br></br> <hr>
         
+99.  <b>factor 20 </b></br></br> 
+            factor 20 command is used to print the prime factors of the number 20</br></br> <hr>
         
-            <b>useradd "lmartin" </b></br></br> <hr>
-            <b>useradd "lmartin" command is used to create a new user named lmartin</b></br></br> <hr>
-        
-        
-            <b>passwd "lmartin" </b></br></br> <hr>
-            <b>passwd "lmartin" command is used to assign password for user lmartin </b></br></br> <hr>
-        
-        
-            <b>passwd -d lmartin </b></br></br> <hr>
-            <b>passwd -d lmartin command is used to disable password for user lmartin</b></br></br> <hr>
-        
-        
-            <b>info </b></br></br> <hr>
-            <b>info command is used to list a few useful info commands</b></br></br> <hr>
-        
-        
-            <b>factor 20 </b></br></br> <hr>
-            <b>factor 20 command is used to print the prime factors of the number 20</b></br></br> <hr>
-        
-        
-            <b>expr 1 + 2 </b></br></br> <hr>
-            <b>expr 1 + 2 command is used to perform addition of two numbers 1 & 2</b></br></br> <hr>
+100. <b>expr 1 + 2 </b></br></br> 
+            expr 1 + 2 command is used to perform addition of two numbers 1 & 2</br></br> <hr>
         
         
             <b>id lmartin </b></br></br> <hr>
