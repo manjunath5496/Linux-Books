@@ -641,14 +641,18 @@ sh hello.sh command is used to execute the file (hello.sh) to print the output: 
         
 
      
-  CompTIA A+ Certification Study Guide </br>
-                Jane Holcombe</br>
-                <a href="https://github.com/manjunath5496/books/blob/master/pdf(2837).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-                
-                
-                
-                
+ UNIX and Linux System Administration HandBook </br>
+                Evi Nemeth, Garth Snyder, Ben Whaley, Trent Hein</br>
+                <a href="https://github.com/manjunath5496/Linux-commands/blob/master/pdf1034.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+				
+				
+The Linux Programming Interface </br>
+                Michael Kerrisk</br>
+                <a href="https://github.com/manjunath5496/books/blob/master/pdf1047.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+				
+				
+				
+				
                 
                 
                 
