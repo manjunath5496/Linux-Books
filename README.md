@@ -553,8 +553,8 @@ sh hello.sh command is used to execute the file (hello.sh) to print the output: 
 155.  <b>passwd -u lmartin </b></br></br> 
        passwd -u lmartin command is used to unlock the password of a user (lmartin)</br></br> <hr>
         
-156. <b>wget http://website.com/files/1.txt </b></br></br> 
-           wget http://website.com/files/1.txt command is used to download the file (1.txt) from the url (http://website.com/files/1.txt)</br></br> <hr>
+156. <b>wget https://github.com/manjunath5496/books/blob/master/pdf(03192).pdf </b></br></br> 
+           wget https://github.com/manjunath5496/books/blob/master/pdf(03192).pdf command is used to download the file (pdf(03192).pdf) from the url (https://github.com/manjunath5496/books/blob/master/pdf(03192).pdf)</br></br> <hr>
         
         
             <b>mkdir files </br> cd files </br> pwd </br> touch 1.txt </b></br></br> <hr>
