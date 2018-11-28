@@ -197,24 +197,22 @@
             hostname -i command is used to display the IP address of the hostname</br></br><hr>
         
         
-            <p>last -1 username </p>
-            <p> last -1 username command is used to display when the user last logged on and off and from where </p>
+  51. <b>last -1 username </b></br></br>
+            last -1 username command is used to display when the user last logged on and off and from where </br></br><hr>
         
         
-            <p>last yourusername </p>
-            <p> last yourusername command is used to list your last logins </p>
+  52. <b>last yourusername </b></br></br>
+             last yourusername command is used to list your last logins </br></br> <hr>
         
         
-            <p>du -a </p>
-            <p>du -a command is used to display the size of each individual file </p>
+  53. <b>du -a </b></br></br>
+            du -a command is used to display the size of each individual file </br></br><hr>
         
+54. <b>date -d fri </b></br></br>
+            date -d fri command is used to display What date is it this Friday </br></br><hr>
         
-            <p>date -d fri </p>
-            <p>date -d fri command is used to display What date is it this Friday </p>
-        
-        
-            <p>cal -y </p>
-            <p>cal -y command is used to display current year's calendar </p>
+55.  <b>cal -y </b></br></br>
+            cal -y command is used to display current year's calendar </br></br><hr>
         
         
             <p>date --help </p>
