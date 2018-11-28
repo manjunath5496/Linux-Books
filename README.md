@@ -1,23 +1,4 @@
-
-<style>
-.size-16 {
-  width: 16px;
-  height: 16px;
-  line-height: 16px;
-}
-</style>
-
-
-
-
-
-
-
-
-
-
-
-<table  class="size-16">
+<table>
     <thead>
         <tr>
             <th>Command</th>
