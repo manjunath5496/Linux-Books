@@ -14,59 +14,59 @@
         
         
  5. <b>clear </b></br></br>
-            clear command is used to clear the terminal window</br></br>
+            clear command is used to clear the terminal window</br></br><hr>
         
         
   6. <b>exit </b></br></br>
-            exit command is used to exit from the terminal window</br></br>
+            exit command is used to exit from the terminal window</br></br><hr>
         
         
    7. <b>free </b></br></br>
-            free command is used to display the free and used system memory</br></br>
+            free command is used to display the free and used system memory</br></br><hr>
         
         
    8. <b>free -b </b></br></br>
-            free -b command is used to display the free and used system memory in bytes</br></br>
+            free -b command is used to display the free and used system memory in bytes</br></br><hr>
         
         
   9. <b>free -k </b></br></br>
-            free -k command is used to display the free and used system memory in kilobytes</br></br>
+            free -k command is used to display the free and used system memory in kilobytes</br></br><hr>
         
         
    10. <b>free -m </b></br></br>
-            free -m command is used to display the free and used system memory in megabytes</br></br>
+            free -m command is used to display the free and used system memory in megabytes</br></br><hr>
         
         
    11. <b>passwd </b></br></br>
-            passwd command is used to change user password</br></br>
+            passwd command is used to change user password</br></br><hr>
         
         
   12.  <b>date -- set 1998-11-02 </b></br></br>
-            date -- set 1998-11-02 command is used to set current date as 02 Nov 1988</br></br>
+            date -- set 1998-11-02 command is used to set current date as 02 Nov 1988</br></br><hr>
         
         
    13. <b>date -- set 12:11:02 </b></br></br>
-            date -- set 12:11:02 command is used to set current time as 12:11:02 IST</br></br>
+            date -- set 12:11:02 command is used to set current time as 12:11:02 IST</br></br><hr>
         
         
    14. <b>df </b></br></br>
-            df command is used to display the disk usage</br></br>
+            df command is used to display the disk usage</br></br><hr>
         
         
    15. <b>df -H </b></br></br>
-            df -H command is used to display the disk usage in gigabytes, megabytes, or kilobytes</br></br>
+            df -H command is used to display the disk usage in gigabytes, megabytes, or kilobytes</br></br><hr>
         
         
    16. <b>shutdown </b></br></br>
-            shutdown command is used to power-off the machine</br></br>
+            shutdown command is used to power-off the machine</br></br><hr>
         
         
   17. <b>shutdown -h now </b></br></br>
-            shutdown -h now command is used to power-off the machine immediately</br></br>
+            shutdown -h now command is used to power-off the machine immediately</br></br><hr>
         
         
-            <p>shutdown -h +10 </p>
-            <p> shutdown -h +10 command is used to power-off the machine after 10 minutes</p>
+  18. <b>shutdown -h +10 </b></br></br>
+             shutdown -h +10 command is used to power-off the machine after 10 minutes</br></br><hr>
         
         
             <p>pwd </p>
