@@ -345,49 +345,42 @@
 100. <b>expr 1 + 2 </b></br></br> 
             expr 1 + 2 command is used to perform addition of two numbers 1 & 2</br></br> <hr>
         
+101. <b>id lmartin </b></br></br> 
+           id lmartin command is used to display all the information about the user "lmartin" (user id, username, group id, group name etc.) </br></br> <hr>
         
-            <b>id lmartin </b></br></br> <hr>
-            <b>id lmartin command is used to display all the information about the user "lmartin" (user id, username, group id, group name etc.) </b></br></br> <hr>
+102.  <b>mkdir files </b></br></br> 
+        mkdir files command is used to create a new directory named files </br></br> <hr>
         
+103. <b>rmdir files </b></br></br> 
+            rmdir files command is used to remove the directory named files </br></br> <hr>
         
-            <b>mkdir files </b></br></br> <hr>
-            <b>mkdir files command is used to create a new directory named files </b></br></br> <hr>
+104. <b>mkdir myfiles files </b></br></br> 
+           mkdir myfiles files command is used to create two directories named myfiles & files</br></br> <hr>
         
+105. <b>ls -s </b></br></br> 
+            ls -s command is used to list the size of files and directories</br></br> <hr>
         
-            <b>rmdir files </b></br></br> <hr>
-            <b>rmdir files command is used to remove the directory named files </b></br></br> <hr>
+106. <b>su root </b></br></br> 
+           su root command is used to switch to the root user</br></br> <hr>
         
+107.  <b>rm -r * </b></br></br> 
+           rm -r * command is used to delete every file and every directory</br></br> <hr>
         
-            <b>mkdir myfiles files </b></br></br> <hr>
-            <b>mkdir myfiles files command is used to create two directories named myfiles & files</b></br></br> <hr>
+108.  <b>ls -X </b></br></br> 
+          ls -X command is used to sort files and directories by extension name</br></br> <hr>
         
+109. <b>rm test.php </b></br></br> 
+           rm test.php command is used to remove the file named test.php</br></br> <hr>
+110. <b>gzip test.php </b></br></br> 
+        gzip test.php command is used to compress the file (test.php), so that it take up much less space</br></br> <hr>
         
-            <b>ls -s </b></br></br> <hr>
-            <b>ls -s command is used to list the size of files and directories</b></br></br> <hr>
-        
-        
-            <b>su root </b></br></br> <hr>
-            <b>su root command is used to switch to the root user</b></br></br> <hr>
-        
-        
-            <b>rm -r * </b></br></br> <hr>
-            <b>rm -r * command is used to delete every file and every directory</b></br></br> <hr>
-        
-        
-            <b>ls -X </b></br></br> <hr>
-            <b>ls -X command is used to sort files and directories by extension name</b></br></br> <hr>
-        
-        
-            <b>rm test.php </b></br></br> <hr>
-            <b>rm test.php command is used to remove the file named test.php</b></br></br> <hr>
-        
-        
-            <b>gzip test.php </b></br></br> <hr>
-            <b>gzip test.php command is used to compress the file (test.php), so that it take up much less space</b></br></br> <hr>
-        
-        
-            <b>yum install httpd </br>apt install httpd </b></br></br> <hr>
-            <b>yum install httpd command is used to install apache in CentOS </br>apt install httpd command is used to install apache in Ubuntu </b></br></br> <hr>
+111. <b>yum install httpd <b> </br> </br> 
+ yum install httpd command is used to install apache in CentOS </br></br>
+ 
+ <b>apt install httpd<b> </br> </br> 
+apt install httpd command is used to install apache in Ubuntu </br></br>
+ 
+  <hr>
         
         
             <b>yum update httpd </br>apt update httpd </b></br></br> <hr>
