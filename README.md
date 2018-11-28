@@ -412,85 +412,76 @@
 120. <b>find test*</b></br></br> 
        find test* command is used for searching files (test.txt, test.php, test.html, test.sql, test.js) in a directory as well as in its sub-directories </br></br> <hr>
         
+121. <b>cmp test.txt test.html </b></br></br> 
+         cmp test.txt test.html command is used to perform byte-by-byte comparison of two files (test.txt & test.html) </br></br> <hr>
         
-            <b>cmp test.txt test.html </b></br></br> <hr>
-            <b>cmp test.txt test.html command is used to perform byte-by-byte comparison of two files (test.txt & test.html) </b></br></br> <hr>
+122.  <b>printf 'Hello World' > test.txt </b></br></br> 
+        printf 'Hello World' > test.txt command is used to create a file (test.txt) containing a text (Hello World) </br></br> <hr>
         
+123.  <b>echo 'Hello World' > test.txt </b></br></br> 
+       echo 'Hello World' > test.txt command is used to create a file (test.txt) containing a text (Hello World) </br></br> <hr>
         
-            <b>printf 'Hello World' > test.txt </b></br></br> <hr>
-            <b>printf 'Hello World' > test.txt command is used to create a file (test.txt) containing a text (Hello World) </b></br></br> <hr>
+124. <b>nl test.txt</b></br></br> 
+    nl test.txt command is used to display the contents of a file (test.txt) and prepends each line with line number</br></br> <hr>
         
+125. <b>stat test.txt</b></br></br> 
+        stat test.txt command is used to display the detailed status of a file (test.txt)</br></br> <hr>
         
-            <b>echo 'Hello World' > test.txt </b></br></br> <hr>
-            <b>echo 'Hello World' > test.txt command is used to create a file (test.txt) containing a text (Hello World) </b></br></br> <hr>
+126.  <b>gunzip test.php</b></br></br> 
+        gunzip test.php command is used to uncompress the file (test.php) compressed by gzip</br></br> <hr>
         
+127. <b>mv test.html text.html </b></br></br> 
+         mv test.html text.html command is used to rename a file named test.html to text.html </br></br> <hr>
         
-            <b>nl test.txt</b></br></br> <hr>
-            <b>nl test.txt command is used to display the contents of a file (test.txt) and prepends each line with line number</b></br></br> <hr>
+128.  <b>cp test.html text.html </b></br></br> 
+          cp test.html text.html command is used to copy the contents of test.html file to the text.html file. If the text.html file doesn't exist, then first it creates one and content is copied to it. </br></br> <hr>
         
+129. <b>cat * > 0.txt </b></br></br> 
+      cat * > 0.txt command is used to append the contents of multiple files in a single directory into one file (0.txt) </br></br> <hr>
         
-            <b>stat test.txt</b></br></br> <hr>
-            <b>stat test.txt command is used to display the detailed status of a file (test.txt)</b></br></br> <hr>
+130. <b>cat 1.txt 2.txt > 0.txt </b></br></br>
+      cat 1.txt 2.txt > 0.txt command is used to append the contents of files (1.txt & 2.txt) into one file (0.txt)</br></br> <hr>
         
+131. <b>sed r 1.txt 2.txt 3.txt > 0.txt </b></br></br> 
+      sed r 1.txt 2.txt 3.txt > 0.txt command is used to append the contents of files (1.txt, 2.txt & 3.txt) into one file (0.txt) </br></br> <hr>
         
-            <b>gunzip test.php</b></br></br> <hr>
-            <b>gunzip test.php command is used to uncompress the file (test.php) compressed by gzip</b></br></br> <hr>
+132. <b>sed h 1.txt 2.txt 3.txt > 0.txt </b></br></br> 
+    sed h 1.txt 2.txt 3.txt > 0.txt command is used to append the contents of files (1.txt, 2.txt & 3.txt) into one file (0.txt) </br></br> <hr>
         
+133. <b>sed -n p 1.txt 2.txt 3.txt > 0.txt </b></br></br> 
+sed -n p 1.txt 2.txt 3.txt > 0.txt command is used to append the contents of files (1.txt, 2.txt & 3.txt) into one file (0.txt) </br></br> <hr>
         
-            <b>mv test.html text.html </b></br></br> <hr>
-            <b>mv test.html text.html command is used to rename a file named test.html to text.html </b></br></br> <hr>
+134. <b>for i in {1..3}; do cat "$i.txt" >> 0.txt; done </b></br></br> 
+  for i in {1..3}; do cat "$i.txt" >> 0.txt; done command is used to append the contents of files (1.txt, 2.txt & 3.txt) into one file (0.txt) using for loop statement</br></br> <hr>
         
+135.  <b>less test.html </b></br></br> 
+less test.html command is used to view the contents of a file (test.html) </br></br> <hr>
         
-            <b>cp test.html text.html </b></br></br> <hr>
-            <b>cp test.html text.html command is used to copy the contents of test.html file to the text.html file. If the text.html file doesn't exist, then first it creates one and content is copied to it. </b></br></br> <hr>
+136. <b>cksum test.txt </b></br></br> 
+      cksum test.txt command is used to print the CRC checksum and byte count for the file (test.txt) </br></br> <hr>
         
+137.  <b>wc -w test.txt </b></br></br> 
+    wc -w test.txt command is used to print the number of words in a text file (test.txt) </br></br> <hr>
         
-            <b>cat * > 0.txt </b></br></br> <hr>
-            <b>cat * > 0.txt command is used to append the contents of multiple files in a single directory into one file (0.txt) </b></br></br> <hr>
+138.  <b>wc -m test.txt </b></br></br> 
+      wc -m test.txt command is used to print the number of characters from a text file (test.txt) </br></br> <hr>
         
+139.  <b>wc -L test.txt </b></br></br> 
+          wc -L test.txt command is used to print the length of the longest line in a file (test.txt) </br></br> <hr>
         
-            <b>cat 1.txt 2.txt > 0.txt </b></br></br> <hr>
-            <b>cat 1.txt 2.txt > 0.txt command is used to append the contents of files (1.txt & 2.txt) into one file (0.txt)</b></br></br> <hr>
-        
-        
-            <b>sed r 1.txt 2.txt 3.txt > 0.txt </b></br></br> <hr>
-            <b>sed r 1.txt 2.txt 3.txt > 0.txt command is used to append the contents of files (1.txt, 2.txt & 3.txt) into one file (0.txt) </b></br></br> <hr>
-        
-        
-            <b>sed h 1.txt 2.txt 3.txt > 0.txt </b></br></br> <hr>
-            <b>sed h 1.txt 2.txt 3.txt > 0.txt command is used to append the contents of files (1.txt, 2.txt & 3.txt) into one file (0.txt) </b></br></br> <hr>
-        
-        
-            <b>sed -n p 1.txt 2.txt 3.txt > 0.txt </b></br></br> <hr>
-            <b>sed -n p 1.txt 2.txt 3.txt > 0.txt command is used to append the contents of files (1.txt, 2.txt & 3.txt) into one file (0.txt) </b></br></br> <hr>
-        
-        
-            <b>for i in {1..3}; do cat "$i.txt" >> 0.txt; done </b></br></br> <hr>
-            <b>for i in {1..3}; do cat "$i.txt" >> 0.txt; done command is used to append the contents of files (1.txt, 2.txt & 3.txt) into one file (0.txt) using for loop statement</b></br></br> <hr>
-        
-        
-            <b>less test.html </b></br></br> <hr>
-            <b>less test.html command is used to view the contents of a file (test.html) </b></br></br> <hr>
-        
-        
-            <b>cksum test.txt </b></br></br> <hr>
-            <b>cksum test.txt command is used to print the CRC checksum and byte count for the file (test.txt) </b></br></br> <hr>
-        
-        
-            <b>wc -w test.txt </b></br></br> <hr>
-            <b>wc -w test.txt command is used to print the number of words in a text file (test.txt) </b></br></br> <hr>
-        
-        
-            <b>wc -m test.txt </b></br></br> <hr>
-            <b>wc -m test.txt command is used to print the number of characters from a text file (test.txt) </b></br></br> <hr>
-        
-        
-            <b>wc -L test.txt </b></br></br> <hr>
-            <b>wc -L test.txt command is used to print the length of the longest line in a file (test.txt) </b></br></br> <hr>
-        
-        
-            <b> vi </br>i </br>a =20; b =64; print (a + b);</br>Hit Escape to return to Normal mode.</br> :w hello.py </br>:q </br>python hello.py </b></br></br> <hr>
-            <b>vi command is used to open vi editor </br>i command is used to go to insert mode </br>python program to add two numbers</br>
+140. <b> vi </b> </br></br>
+vi command is used to open vi editor </br> </br>
+<b> i </b> </br></br>
+i command is used to go to insert mode </br></br>
+<b> a =20; b =64; print (a + b); </b> </br></br>
+python program to add two numbers </br></br>
+
+
+
+
+
+i </br>a =20; b =64; print (a + b);</br>Hit Escape to return to Normal mode.</br> :w hello.py </br>:q </br>python hello.py </b></br></br> <hr>
+            <b> </br>python program to add two numbers</br>
                 </br>
                 </br>:w hello.py command is used to save text by name (hello.py)</br>:q command is used to quit the vi editor</br>python hello.py command is used to execute the file (hello.py) to print the output: 84 </b></br></br> <hr>
         
