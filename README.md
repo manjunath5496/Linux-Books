@@ -13,16 +13,16 @@
             cal 8 2016 command is used to display the August month 2016 year calendar</br></br>
         
         
-            <p>clear </p>
-            <p>clear command is used to clear the terminal window</p>
+ 5. <b>clear </b></br></br>
+            clear command is used to clear the terminal window</br></br>
         
         
-            <p>exit </p>
-            <p>exit command is used to exit from the terminal window</p>
+  6. <b>exit </b></br></br>
+            exit command is used to exit from the terminal window</br></br>
         
         
-            <p>free </p>
-            <p> free command is used to display the free and used system memory</p>
+   7. <b>free </b></br></br>
+            free command is used to display the free and used system memory</br></br>
         
         
             <p>free -b </p>
