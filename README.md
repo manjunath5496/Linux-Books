@@ -556,121 +556,88 @@ sh hello.sh command is used to execute the file (hello.sh) to print the output: 
 156. <b>wget https://github.com/manjunath5496/books/blob/master/pdf(03192).pdf </b></br></br> 
            wget https://github.com/manjunath5496/books/blob/master/pdf(03192).pdf command is used to download the file (pdf(03192).pdf) from the url (https://github.com/manjunath5496/books/blob/master/pdf(03192).pdf)</br></br> <hr>
         
+   157. <b>mkdir files </br> cd files </br> pwd </br> touch 1.txt </b></br></br> 
+           The following commands are used to create an empty file named 1.txt inside a directory named files</br></br> <hr>
+158. <b>passwd -n 90 lmartin </b></br></br> 
+            passwd -n 90 lmartin command is used to set 90 days for a user (lmartin) to change its password </br></br> <hr>
         
-            <b>mkdir files </br> cd files </br> pwd </br> touch 1.txt </b></br></br> <hr>
-            <b>The following commands are used to create an empty file named 1.txt inside a directory named files</b></br></br> <hr>
+159. <b>passwd -S lmartin </b></br></br> 
+        passwd -S lmartin command is used to display password status information of a user (lmartin) </br></br> <hr>
         
+160. <b>echo $HOME </b></br></br> 
+      echo $HOME command is used to display the path of the home directory </br></br> <hr>
         
-            <b>passwd -n 90 lmartin </b></br></br> <hr>
-            <b>passwd -n 90 lmartin command is used to set 90 days for a user (lmartin) to change its password </b></br></br> <hr>
+161. <b>echo $PATH </b></br></br> 
+      echo $PATH command is used to list which directories contain scripts for the command line to execute </br></br> <hr>
         
+ 162.  <b>chage -d 0 lmartin </b></br></br> 
+       chage -d 0 lmartin command is used to force immediate password expiration for the user (lmartin) </br></br> <hr>
         
-            <b>passwd -S lmartin </b></br></br> <hr>
-            <b>passwd -S lmartin command is used to display password status information of a user (lmartin) </b></br></br> <hr>
+163. <b>usermod -p "" lmartin </b></br></br> 
+  usermod -p "" lmartin command is used to assign a null password instead of an initial password for the user (lmartin) </br></br> <hr>
         
+164. <b>head 1.txt </b></br></br> 
+   head 1.txt command is used to display the first 10 lines of the file (1.txt) to standard output </br></br> <hr>
         
-            <b>echo $HOME </b></br></br> <hr>
-            <b>echo $HOME command is used to display the path of the home directory </b></br></br> <hr>
+165. <b>last </b></br></br> 
+       last command is used to show listing of last logged in users </br></br> <hr>
         
+166. <b>eject </b></br></br> 
+       eject command lets you eject removable media (typically, a CD ROM or floppy disk) </br></br> <hr>
         
-            <b>echo $PATH </b></br></br> <hr>
-            <b>echo $PATH command is used to list which directories contain scripts for the command line to execute </b></br></br> <hr>
+167.  <b>paste -s 1.txt </b></br></br> 
+       paste -s 1.txt command is used to join all the lines of the file (1.txt) </br></br> <hr>
         
+168.  <b>which date </b></br></br> 
+      which date command is used to locate the executable file associated with the date command </br></br> <hr>
         
-            <b>chage -d 0 lmartin </b></br></br> <hr>
-            <b>chage -d 0 lmartin command is used to force immediate password expiration for the user (lmartin) </b></br></br> <hr>
+169. <b>yes linux </b></br></br> 
+     yes linux command outputs a string (linux) repeatedly until killed </br></br> <hr>
         
+170.  <b>time df </b></br></br> 
+   time df command is used to display the disk usage and report how long it took for df command to execute</br></br> <hr>
         
-            <b>usermod -p "" lmartin </b></br></br> <hr>
-            <b>usermod -p "" lmartin command is used to assign a null password instead of an initial password for the user (lmartin) </b></br></br> <hr>
+ 171. <b>sleep 10 </b></br></br> 
+      sleep 10 command is used to make your terminal pause for 10 seconds before returning you to the command line</br></br> <hr>
         
+172. <b>sleep 20s </b></br></br> 
+    sleep 20s command is used to make your terminal pause for 20 seconds before returning you to the command line</br></br> <hr>
         
-            <b>head 1.txt </b></br></br> <hr>
-            <b>head 1.txt command is used to display the first 10 lines of the file (1.txt) to standard output </b></br></br> <hr>
+173.  <b>sleep 1m </b></br></br> 
+      sleep 1m command is used to make your terminal pause for 1 minute before returning you to the command line</br></br> <hr>
+174. <b>sleep 2h </b></br></br> 
+      sleep 2h command is used to make your terminal pause for 2 hours before returning you to the command line</br></br> <hr>
         
+175. <b>sleep 2d </b></br></br> 
+    sleep 2d command is used to make your terminal pause for 2 days before returning you to the command line</br></br> <hr>
         
-            <b>last </b></br></br> <hr>
-            <b>last command is used to show listing of last logged in users </b></br></br> <hr>
+176. <b>shutdown -c </b></br></br> 
+      shutdown -c command is used to cancel running shutdown </br></br> <hr>
         
+177. <b>shutdown -h 18:00 </b></br></br> 
+       shutdown -h 18:00 command is used to power-off the machine at 6PM</br></br> <hr>
         
-            <b>eject </b></br></br> <hr>
-            <b>eject command lets you eject removable media (typically, a CD ROM or floppy disk) </b></br></br> <hr>
+178.  <b>userdel -r lmartin </b></br></br> 
+        userdel -r lmartin command is used to delete user (lmartin) with home directory</br></br> <hr>
         
+179. <b>du -sh 1.txt </b></br></br> 
+        du -sh 1.txt command is used to display the information of disk usage of file (1.txt) </br></br> <hr>
         
-            <b>paste -s 1.txt </b></br></br> <hr>
-            <b>paste -s 1.txt command is used to join all the lines of the file (1.txt) </b></br></br> <hr>
+180. <b>ls -a </b></br></br> 
+          ls -a command is used to display hidden file</br></br> <hr>
+181. <b>sudo dmidecode -t 16 </b></br></br> 
+       sudo dmidecode -t 16 command is used to display the maximum RAM supported by the system</br></br> <hr>
+ 182.  <b>head -5 1.txt </b></br></br> 
+      head -5 1.txt command is used to display the first 5 lines of the file (1.txt) to standard output</br></br> <hr>
         
+183. <b>uniq 2.txt </b></br></br> 
+          uniq 2.txt command is used to report or even delete repeated lines in a file (2.txt) </br></br> <hr>
         
-            <b>which date </b></br></br> <hr>
-            <b>which date command is used to locate the executable file associated with the date command </b></br></br> <hr>
+184. <b>uniq -c 2.txt </b></br></br> 
+       uniq -c 2.txt command is used to output the number of times a line is repeated in a file (2.txt)</br></br> <hr>
         
-        
-            <b>yes linux </b></br></br> <hr>
-            <b>yes linux command outputs a string (linux) repeatedly until killed </b></br></br> <hr>
-        
-        
-            <b>time df </b></br></br> <hr>
-            <b>time df command is used to display the disk usage and report how long it took for df command to execute</b></br></br> <hr>
-        
-        
-            <b>sleep 10 </b></br></br> <hr>
-            <b>sleep 10 command is used to make your terminal pause for 10 seconds before returning you to the command line</b></br></br> <hr>
-        
-        
-            <b>sleep 20s </b></br></br> <hr>
-            <b>sleep 20s command is used to make your terminal pause for 20 seconds before returning you to the command line</b></br></br> <hr>
-        
-        
-            <b>sleep 1m </b></br></br> <hr>
-            <b>sleep 1m command is used to make your terminal pause for 1 minute before returning you to the command line</b></br></br> <hr>
-        
-        
-            <b>sleep 2h </b></br></br> <hr>
-            <b>sleep 2h command is used to make your terminal pause for 2 hours before returning you to the command line</b></br></br> <hr>
-        
-        
-            <b>sleep 2d </b></br></br> <hr>
-            <b>sleep 2d command is used to make your terminal pause for 2 days before returning you to the command line</b></br></br> <hr>
-        
-        
-            <b>shutdown -c </b></br></br> <hr>
-            <b>shutdown -c command is used to cancel running shutdown </b></br></br> <hr>
-        
-        
-            <b>shutdown -h 18:00 </b></br></br> <hr>
-            <b>shutdown -h 18:00 command is used to power-off the machine at 6PM</b></br></br> <hr>
-        
-        
-            <b>userdel -r lmartin </b></br></br> <hr>
-            <b>userdel -r lmartin command is used to delete user (lmartin) with home directory</b></br></br> <hr>
-        
-        
-            <b>du -sh 1.txt </b></br></br> <hr>
-            <b>du -sh 1.txt command is used to display the information of disk usage of file (1.txt) </b></br></br> <hr>
-        
-        
-            <b>ls -a </b></br></br> <hr>
-            <b>ls -a command is used to display hidden file</b></br></br> <hr>
-        
-        
-            <b>sudo dmidecode -t 16 </b></br></br> <hr>
-            <b>sudo dmidecode -t 16 command is used to display the maximum RAM supported by the system</b></br></br> <hr>
-        
-        
-            <b>head -5 1.txt </b></br></br> <hr>
-            <b>head -5 1.txt command is used to display the first 5 lines of the file (1.txt) to standard output</b></br></br> <hr>
-        
-        
-            <b>uniq 2.txt </b></br></br> <hr>
-            <b>uniq 2.txt command is used to report or even delete repeated lines in a file (2.txt) </b></br></br> <hr>
-        
-        
-            <b>uniq -c 2.txt </b></br></br> <hr>
-            <b>uniq -c 2.txt command is used to output the number of times a line is repeated in a file (2.txt)</b></br></br> <hr>
-        
-        
-            <b>zcat 2.txt.gz </b></br></br> <hr>
-            <b>zcat 2.txt.gz command is used to display the content of the gzip compressed text file (2.txt.gz) </b></br></br> <hr>
+185. <b>zcat 2.txt.gz </b></br></br> 
+        zcat 2.txt.gz command is used to display the content of the gzip compressed text file (2.txt.gz) </br></br> <hr>
         
 
      
