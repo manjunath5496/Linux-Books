@@ -390,44 +390,32 @@ apt install httpd command is used to install apache in Ubuntu </br></br>
       apt update httpd command is used to upgrade apache in Ubuntu </br></br> <hr>
         
         
+ 113.  <b>yum remove httpd </b> </br> </br> 
+ yum update httpd command is used to uninstall apache in CentOS </br></br>
+  <b> apt remove httpd </b></br></br> 
+            apt update httpd command is used to uninstall apache in Ubuntu </br></br> <hr>
         
         
+114. <b>touch test.txt </b></br></br> 
+           touch test.txt command is used to create a empty file named test.txt </br></br> <hr>
         
+115. <b>tail test.html </b></br></br> 
+ tail test.html command is used to print the last 10 lines from the file (test.html) </br></br> <hr>
         
+116. <b>tail -n N test.html </b></br></br> 
+         tail -n N test.html command is used to print N number of lines from the file (test.html) </br></br> <hr>
         
+117.  <b>cat test.html</b></br></br> 
+   cat test.html command is used to examine the contents of the file (test.html)</br></br> <hr>
         
+118. <b>diff test.html test.php</b></br></br> 
+ diff test.html test.php command is used to compare the contents of files (test.html & test.php) line by line </br></br> <hr>
         
+119. <b>comm test.html test.php</b></br></br> 
+       comm test.html test.php command is used to compare two files (test.html & test.php) line by line </br></br> <hr>
         
-            <b>yum remove httpd </br>apt remove httpd </b></br></br> <hr>
-            <b>yum update httpd command is used to uninstall apache in CentOS </br>apt update httpd command is used to uninstall apache in Ubuntu </b></br></br> <hr>
-        
-        
-            <b>touch test.txt </b></br></br> <hr>
-            <b>touch test.txt command is used to create a empty file named test.txt </b></br></br> <hr>
-        
-        
-            <b>tail test.html </b></br></br> <hr>
-            <b>tail test.html command is used to print the last 10 lines from the file (test.html) </b></br></br> <hr>
-        
-        
-            <b>tail -n N test.html </b></br></br> <hr>
-            <b>tail -n N test.html command is used to print N number of lines from the file (test.html) </b></br></br> <hr>
-        
-        
-            <b>cat test.html</b></br></br> <hr>
-            <b>cat test.html command is used to examine the contents of the file (test.html)</b></br></br> <hr>
-        
-        
-            <b>diff test.html test.php</b></br></br> <hr>
-            <b>diff test.html test.php command is used to compare the contents of files (test.html & test.php) line by line </b></br></br> <hr>
-        
-        
-            <b>comm test.html test.php</b></br></br> <hr>
-            <b>comm test.html test.php command is used to compare two files (test.html & test.php) line by line </b></br></br> <hr>
-        
-        
-            <b>find test*</b></br></br> <hr>
-            <b>find test* command is used for searching files (test.txt, test.php, test.html, test.sql, test.js) in a directory as well as in its sub-directories </b></br></br> <hr>
+120. <b>find test*</b></br></br> 
+       find test* command is used for searching files (test.txt, test.php, test.html, test.sql, test.js) in a directory as well as in its sub-directories </br></br> <hr>
         
         
             <b>cmp test.txt test.html </b></br></br> <hr>
