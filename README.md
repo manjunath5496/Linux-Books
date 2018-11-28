@@ -486,70 +486,75 @@ python hello.py command is used to execute the file (hello.py) to print the outp
 141. <b>:q! </b></br></br> 
        :q! command is used to quit the vi editor without saving the text </br></br> <hr>
         
+142. <b>echo "Hello world!" >> 1.txt </b> </br></br>
+echo "Hello world!" >> 1.txt command is used to create a file (1.txt) containing a text (Hello World) </br></br>
+<b>echo "this is 2nd line text" >> 1.txt </b> </br></br>
+echo "this is 2nd line text" >> 1.txt command is used to add a second line of text (this is 2nd line text) to the file (1.txt) </br></br>
+<b>echo "last line!" >> 1.txt </b> </br></br>
+echo "last line!" >> 1.txt command is used to add a third line of text (last line!) to the file (1.txt)</br></br> <hr>
+ 
+ 143. <b> vi </b> </br></br>
+vi command is used to open vi editor </br> </br>
+<b> i </b> </br></br>
+i command is used to go to insert mode </br></br>
+<b> print "Hello World!"; </b> </br></br>
+Hello World Program in Perl </br></br>
+<b> Hit Escape to return to Normal mode. </b> </br></br>
+<b> :w hello.pl </b> </br></br>
+:w hello.pl command is used to save text by name (hello.pl)</br></br>
+<b> :q  </b> </br></br>
+:q command is used to quit the vi editor</br></br>
+<b> perl hello.pl  </b> </br></br>
+perl hello.pl command is used to execute the file (hello.pl) to print the output: Hello World!  </br> </br><hr>
+
+ 
+  144. <b> vi </b> </br></br>
+vi command is used to open vi editor </br> </br>
+<b> i </b> </br></br>
+i command is used to go to insert mode </br></br>
+<b> echo Hello World  </b> </br></br>
+Hello World Program in Shell Scripting </br></br>
+<b> Hit Escape to return to Normal mode. </b> </br></br>
+<b> :w hello.sh </b> </br></br>
+:w hello.sh command is used to save text by name (hello.sh)</br></br>
+<b> :q  </b> </br></br>
+:q command is used to quit the vi editor</br></br>
+<b> sh hello.sh  </b> </br></br>
+sh hello.sh command is used to execute the file (hello.sh) to print the output: Hello World  </br> </br><hr>
+
+ 145. <b>cd ../.. </b></br></br> 
+           cd ../.. command takes you two folders back </br></br> <hr>
         
-            <b>echo "Hello world!" >> 1.txt </br> echo "this is 2nd line text" >> 1.txt </br>echo "last line!" >> 1.txt </b></br></br> <hr>
-            <b>echo "Hello world!" >> 1.txt command is used to create a file (1.txt) containing a text (Hello World) </br>echo "this is 2nd line text" >> 1.txt command is used to add a second line of text (this is 2nd line text) to the file (1.txt) </br>
-                </br>echo "last line!" >> 1.txt command is used to add a third line of text (last line!) to the file (1.txt)</b></br></br> <hr>
+146. <b>cd - </b></br></br> 
+       cd - command takes you to the previous working directory </br></br> <hr>
         
+147. <b>grep hello 1.txt </b></br></br> 
+      grep hello 1.txt command is used to search a file (1.txt) for a particular pattern of characters (hello) and displays the line that contain that pattern</br></br> <hr>
         
-            <b> vi </br>i </br>print "Hello World!";</br>Hit Escape to return to Normal mode.</br> :w hello.pl </br>:q </br>perl hello.pl </b></br></br> <hr>
-            <b>vi command is used to open vi editor </br>i command is used to go to Insert mode </br>Hello World Program in Perl</br>
-                </br>
-                </br>:w hello.pl command is used to save text by name (hello.pl)</br>:q command is used to quit the vi editor</br>perl hello.pl command is used to execute the file (hello.pl) to print the output: Hello World! </b></br></br> <hr>
+148. <b>grep -c hello 1.txt </b></br></br> 
+   grep -c hello 1.txt command is used to print only a count of the lines that match a pattern of characters (hello)</br></br> <hr>
         
+149.  <b>userdel lmartin </b></br></br> 
+       userdel lmartin command is used to delete a user named lmartin</br></br> <hr>
         
-            <b> vi </br>i </br>echo Hello World </br>Hit Escape to return to Normal mode.</br> :w hello.sh </br>:q </br>sh hello.sh </b></br></br> <hr>
-            <b>vi command is used to open vi editor </br>i command is used to go to Insert mode </br>Hello World Program in Shell Scripting</br>
-                </br>
-                </br>:w hello.sh command is used to save text by name (hello.sh)</br>:q command is used to quit the vi editor</br>sh hello.sh command is used to execute the file (hello.sh) to print the output: Hello World </b></br></br> <hr>
+150. <b>getent passwd </b></br></br> 
+     getent passwd command is used to list all local users (with their login name, encrypted password, numerical user ID, numerical group ID, user home directory etc.)</br></br> <hr>
         
+151. <b>compgen -u </b></br></br> 
+      compgen -u command is used to list all local users</br></br> <hr>
+152.  <b>usermod -l martin lmartin </b></br></br>
+      usermod -l martin lmartin command is used to change the name of the user from lmartin to martin</br></br> <hr>
         
-            <b>cd ../.. </b></br></br> <hr>
-            <b>cd ../.. command takes you two folders back </b></br></br> <hr>
+153.  <b>sudo passwd lmartin </b></br></br> 
+       sudo passwd lmartin command is used to change the password for a user (lmartin)</br></br> <hr>
+154. <b>passwd -l lmartin </b></br></br> 
+       passwd -l lmartin command is used to lock the password of a user (lmartin)</br></br> <hr>
         
+155.  <b>passwd -u lmartin </b></br></br> 
+       passwd -u lmartin command is used to unlock the password of a user (lmartin)</br></br> <hr>
         
-            <b>cd - </b></br></br> <hr>
-            <b>cd - command takes you to the previous working directory </b></br></br> <hr>
-        
-        
-            <b>grep hello 1.txt </b></br></br> <hr>
-            <b>grep hello 1.txt command is used to search a file (1.txt) for a particular pattern of characters (hello) and displays the line that contain that pattern</b></br></br> <hr>
-        
-        
-            <b>grep -c hello 1.txt </b></br></br> <hr>
-            <b>grep -c hello 1.txt command is used to print only a count of the lines that match a pattern of characters (hello)</b></br></br> <hr>
-        
-        
-            <b>userdel lmartin </b></br></br> <hr>
-            <b>userdel lmartin command is used to delete a user named lmartin</b></br></br> <hr>
-        
-        
-            <b>getent passwd </b></br></br> <hr>
-            <b>getent passwd command is used to list all local users (with their login name, encrypted password, numerical user ID, numerical group ID, user home directory etc.)</b></br></br> <hr>
-        
-        
-            <b>compgen -u </b></br></br> <hr>
-            <b>compgen -u command is used to list all local users</b></br></br> <hr>
-        
-        
-            <b>usermod -l martin lmartin </b></br></br> <hr>
-            <b>usermod -l martin lmartin command is used to change the name of the user from lmartin to martin</b></br></br> <hr>
-        
-        
-            <b>sudo passwd lmartin </b></br></br> <hr>
-            <b>sudo passwd lmartin command is used to change the password for a user (lmartin)</b></br></br> <hr>
-        
-        
-            <b>passwd -l lmartin </b></br></br> <hr>
-            <b>passwd -l lmartin command is used to lock the password of a user (lmartin)</b></br></br> <hr>
-        
-        
-            <b>passwd -u lmartin </b></br></br> <hr>
-            <b>passwd -u lmartin command is used to unlock the password of a user (lmartin)</b></br></br> <hr>
-        
-        
-            <b>wget http://website.com/files/1.txt </b></br></br> <hr>
-            <b>wget http://website.com/files/1.txt command is used to download the file (1.txt) from the url (http://website.com/files/1.txt)</b></br></br> <hr>
+156. <b>wget http://website.com/files/1.txt </b></br></br> 
+           wget http://website.com/files/1.txt command is used to download the file (1.txt) from the url (http://website.com/files/1.txt)</br></br> <hr>
         
         
             <b>mkdir files </br> cd files </br> pwd </br> touch 1.txt </b></br></br> <hr>
