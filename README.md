@@ -169,32 +169,32 @@
             uname -n command is used to report the network node hostname</br></br><hr>
         
         
-            <p>logname </p>
-            <p>logname command is used to report the login name of the current user</p>
+   44. <b>logname </b></br></br>
+            logname command is used to report the login name of the current user</br></br><hr>
         
         
-            <p>whoami </p>
-            <p>whoami command is used to print the name of the user</p>
+   45. <b>whoami </b></br></br>
+            whoami command is used to print the name of the user</br></br><hr>
         
         
-            <p>w </p>
-            <p>w command is used to report information about the users currently on the machine and their processes</p>
+   46. <b>w </b></br></br>
+            w command is used to report information about the users currently on the machine and their processes</br></br><hr>
         
         
-            <p>uptime </p>
-            <p>uptime command is used to display how long the system has been running</p>
+   47. <b>uptime </b></br></br>
+            uptime command is used to display how long the system has been running</br></br><hr>
         
         
-            <p>who </p>
-            <p>who command is used to display who is logged on</p>
+   48. <b>who </b></br></br>
+            who command is used to display who is logged on</br></br><hr>
         
         
-            <p>ifconfig </p>
-            <p>ifconfig command is used to view and change the configuration of the network interfaces on the system</p>
+   49. <b>ifconfig </b></br></br>
+            ifconfig command is used to view and change the configuration of the network interfaces on the system</br></br><hr>
         
         
-            <p>hostname -i </p>
-            <p>hostname -i command is used to display the IP address of the hostname</p>
+   50. <b>hostname -i </b></br></br>
+            hostname -i command is used to display the IP address of the hostname</br></br><hr>
         
         
             <p>last -1 username </p>
