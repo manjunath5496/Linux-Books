@@ -1,11 +1,11 @@
 
- <b>date</b> </br></br>
+ 1. <b>date</b> </br></br>
   date command is used to display the system date and time
         
-<b>cal</b></br></br>
+2. <b>cal</b></br></br>
    cal command is used to display the calendar
         
- <b>date & cal </b></br></br>
+ 3. <b>date & cal </b></br></br>
             date & cal command is used to display the system date, time and calendar
         
         
