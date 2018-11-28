@@ -1,8 +1,6 @@
-<hr>
+
  1. <b>date</b> </br></br>
-  date command is used to display the system date and time</br></br>
-  
-  <hr>
+  date command is used to display the system date and time</br></br> <hr>
         
 2. <b>cal</b></br></br>
    cal command is used to display the calendar</br></br> <hr>
