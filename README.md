@@ -375,16 +375,16 @@
         gzip test.php command is used to compress the file (test.php), so that it take up much less space</br></br> <hr>
         
 111. <b>yum install httpd </b> </br> </br> 
- yum install httpd command is used to install apache in CentOS </br></br>
+      yum install httpd command is used to install apache in CentOS </br></br>
  
  <b>apt install httpd</b> </br> </br> 
-apt install httpd command is used to install apache in Ubuntu </br></br>
+     apt install httpd command is used to install apache in Ubuntu </br></br>
  
   <hr>
         
  112.  <b>yum update httpd </b> </br> </br> 
  
- yum update httpd command is used to upgrade apache in CentOS </br></br>
+       yum update httpd command is used to upgrade apache in CentOS </br></br>
  
  <b> apt update httpd </b></br></br>
       apt update httpd command is used to upgrade apache in Ubuntu </br></br> <hr>
