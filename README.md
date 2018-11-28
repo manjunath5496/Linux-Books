@@ -5,9 +5,10 @@
 <b>cal</b></br></br>
    cal command is used to display the calendar
         
+ <b>date & cal </b></br></br>
+            date & cal command is used to display the system date, time and calendar
         
-            <p>date & cal </p>
-            <p>date & cal command is used to display the system date, time and calendar</p>
+        
         
         
             <p>cal 8 2016 </p>
