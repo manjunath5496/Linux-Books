@@ -69,20 +69,20 @@
              shutdown -h +10 command is used to power-off the machine after 10 minutes</br></br><hr>
         
         
-            <p>pwd </p>
-            <p>pwd command is used to display the current directory</p>
+  19. <b>pwd </b></br></br>
+            pwd command is used to display the current directory</br></br><hr>
         
         
-            <p>netstat -a </p>
-            <p>netstat -a command is used to display all ports (both TCP and UDP)</p>
+   20. <b>netstat -a </b>
+            netstat -a command is used to display all ports (both TCP and UDP)</br></br><hr>
         
         
-            <p>netstat -at </p>
-            <p>netstat -at command is used to display only TCP (Transmission Control Protocol) port connections</p>
+   21. <b>netstat -at </b></br></br>
+            netstat -at command is used to display only TCP (Transmission Control Protocol) port connections</br></br><hr>
         
         
-            <p>netstat -au </p>
-            <p>netstat -au command is used to display only UDP (User Datagram Protocol ) port connections</p>
+   22. <b>netstat -au </b></br></br>
+            netstat -au command is used to display only UDP (User Datagram Protocol ) port connections</br></br><hr>
         
         
             <p>netstat -I </p>
