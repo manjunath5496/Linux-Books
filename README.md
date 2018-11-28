@@ -285,45 +285,35 @@
 80. <b>lspci </b></br></br> 
            lspci command is used to report the information about usb ports, graphics cards, network adapters etc. </br></br> <hr>
         
+81.  <b>sudo fdisk -l </b></br></br> 
+           sudo fdisk -l command is used to display the information about file system partitions </br></br> <hr>
         
-            <b>sudo fdisk -l </b></br></br> <hr>
-            <b>sudo fdisk -l command is used to display the information about file system partitions </b></br></br> <hr>
+82.  <b>sudo lshw </b></br></br> 
+         sudo lshw command is used to display the information about hardware components such as cpu, disks, memory, usb controllers etc.</br></br> <hr>
         
+83. <b>echo $? </b></br></br> 
+          echo $? command is used to display the exit status of previous command </br></br> <hr>
         
-            <b>sudo lshw </b></br></br> <hr>
-            <b>sudo lshw command is used to display the information about hardware components such as cpu, disks, memory, usb controllers etc. </b></br></br> <hr>
+84. <b>help </b></br></br> 
+            help command is used to list the shell built-in commands </br></br> <hr>
         
+85.  <b>login </b></br></br> 
+            login command is used to create a new session on the system</br></br> <hr>
         
-            <b>echo $? </b></br></br> <hr>
-            <b>echo $? command is used to display the exit status of previous command </b></br></br> <hr>
+86. <b>logout </b></br></br> 
+          logout command is used to exit from the terminal window</br></br> <hr>
         
+87. <b>fc-list </b></br></br> 
+            fc-list command is used to display the list of available fonts</br></br> <hr>
         
-            <b>help </b></br></br> <hr>
-            <b>help command is used to list the shell built-in commands </b></br></br> <hr>
+88.  <b>ncal </b></br></br> 
+            ncal command is used to display the calendar</br></br> <hr>
         
+89. <b>id </b></br></br> 
+          id command is used to display all the information about the current user (user id, username, group id, group name etc.)</br></br> <hr>
         
-            <b>login </b></br></br> <hr>
-            <b>login command is used to create a new session on the system</b></br></br> <hr>
-        
-        
-            <b>logout </b></br></br> <hr>
-            <b>logout command is used to exit from the terminal window</b></br></br> <hr>
-        
-        
-            <b>fc-list </b></br></br> <hr>
-            <b>fc-list command is used to display the list of available fonts</b></br></br> <hr>
-        
-        
-            <b>ncal </b></br></br> <hr>
-            <b>ncal command is used to display the calendar</b></br></br> <hr>
-        
-        
-            <b>id </b></br></br> <hr>
-            <b>id command is used to display all the information about the current user (user id, username, group id, group name etc.)</b></br></br> <hr>
-        
-        
-            <b>whatis ls </b></br></br> <hr>
-            <b>whatis ls command is used to display a single line description about ls command </b></br></br> <hr>
+90. <b>whatis ls </b></br></br> 
+           whatis ls command is used to display a single line description about ls command </br></br> <hr>
         
         
             <b>cal -3 </b></br></br> <hr>
