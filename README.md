@@ -1,16 +1,16 @@
 
  1. <b>date</b> </br></br>
-  date command is used to display the system date and time
+  date command is used to display the system date and time</br></br>
         
 2. <b>cal</b></br></br>
-   cal command is used to display the calendar
+   cal command is used to display the calendar</br></br>
         
  3. <b>date & cal </b></br></br>
-            date & cal command is used to display the system date, time and calendar
+            date & cal command is used to display the system date, time and calendar</br></br>
         
         
  4. <b>cal 8 2016 </b></br></br>
-            cal 8 2016 command is used to display the August month 2016 year calendar
+            cal 8 2016 command is used to display the August month 2016 year calendar</br></br>
         
         
             <p>clear </p>
