@@ -109,32 +109,32 @@
             ifconfig -a command is used to display information of all network interfaces</br></br><hr>
         
         
-            <p>cd </p>
-            <p>cd command is used to change the current working directory </p>
+  29. <b>cd </b></br></br>
+            cd command is used to change the current working directory </br></br><hr>
         
         
-            <p>man pwd </p>
-            <p>man pwd command is used to display the manual for the pwd command </p>
+   30. <b>man pwd </b></br></br>
+            man pwd command is used to display the manual for the pwd command </br></br><hr>
         
         
-            <p>kill </p>
-            <p>kill command is used to terminate processes without having to log out or reboot </p>
+   31. <b>kill </b></br></br>
+            kill command is used to terminate processes without having to log out or reboot </br></br><hr>
         
         
-            <p>du </p>
-            <p>du command is used to display the information of disk usage of files and directories</p>
+   32. <b>du </b></br></br>
+            du command is used to display the information of disk usage of files and directories</br></br><hr>
         
         
-            <p>ls </p>
-            <p>ls command is used to list files & directories</p>
+   33. <b>ls </b></br></br>
+            ls command is used to list files & directories</br></br><hr>
         
         
-            <p>ps </p>
-            <p>ps command is used to report the process information</p>
+   34. <b>ps </b></br></br>
+            ps command is used to report the process information</br></br><hr>
         
         
-            <p>top </p>
-            <p>top command is used to provide a quick overview of the currently running processes</p>
+   35. <b>top </b></br></br>
+            top command is used to provide a quick overview of the currently running processes</br></br><hr>
         
         
             <p>mount </p>
