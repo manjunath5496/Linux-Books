@@ -41,28 +41,28 @@
             passwd command is used to change user password</br></br>
         
         
-            <p>date -- set 1998-11-02 </p>
-            <p>date -- set 1998-11-02 command is used to set current date as 02 Nov 1988</p>
+  12.  <b>date -- set 1998-11-02 </b></br></br>
+            date -- set 1998-11-02 command is used to set current date as 02 Nov 1988</br></br>
         
         
-            <p>date -- set 12:11:02 </p>
-            <p>date -- set 12:11:02 command is used to set current time as 12:11:02 IST</p>
+   13. <b>date -- set 12:11:02 </b></br></br>
+            date -- set 12:11:02 command is used to set current time as 12:11:02 IST</br></br>
         
         
-            <p>df </p>
-            <p>df command is used to display the disk usage</p>
+   14. <b>df </b></br></br>
+            df command is used to display the disk usage</br></br>
         
         
-            <p>df -H </p>
-            <p>df -H command is used to display the disk usage in gigabytes, megabytes, or kilobytes</p>
+   15. <b>df -H </b></br></br>
+            df -H command is used to display the disk usage in gigabytes, megabytes, or kilobytes</br></br>
         
         
-            <p>shutdown </p>
-            <p>shutdown command is used to power-off the machine</p>
+   16. <b>shutdown </b></br></br>
+            shutdown command is used to power-off the machine</br></br>
         
         
-            <p>shutdown -h now </p>
-            <p> shutdown -h now command is used to power-off the machine immediately</p>
+  17. <b>shutdown -h now </b></br></br>
+            shutdown -h now command is used to power-off the machine immediately</br></br>
         
         
             <p>shutdown -h +10 </p>
