@@ -697,7 +697,22 @@ xi. Linux, The Complete Reference  </br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf617.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>	
 		
 		
-		
+xii. Linux Fundamentals </br>
+                Paul Cobbaut</br>
+                <a href="https://github.com/manjunath5496/Linux-commands/blob/master/pdf618.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+				
+				
+xiii. Beginning Linux Programming</br>
+                Neil Matthew</br>
+                <a href="https://github.com/manjunath5496/books/blob/master/pdf619.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+				
+				
+				
+xiv. Advanced Linux Programming </br>
+               Mark Mitchell</br>
+                <a href="https://github.com/manjunath5496/books/blob/master/pdf620.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+					
+					
 		
 		
 		
