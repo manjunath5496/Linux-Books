@@ -643,7 +643,7 @@ sh hello.sh command is used to execute the file (hello.sh) to print the output: 
 
 
 
-<img src="smiley.gif" alt="Linux" height="238" width="480">
+<img src="https://github.com/manjunath5496/Linux-commands/blob/master/1.png" alt="Linux" height="238" width="480">
 
 
 
