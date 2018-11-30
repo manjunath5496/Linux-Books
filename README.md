@@ -680,8 +680,21 @@ viii. Linux Bible </br>
                 Christopher Negus</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf2519.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 		
-		
-		
+ix. Linux For Dummies </br>
+                Richard Blum</br>
+                <a href="https://github.com/manjunath5496/Linux-commands/blob/master/pdf298.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+				
+				
+				
+x. C Programming in Linux </br>
+                David Haskins</br>
+                <a href="https://github.com/manjunath5496/books/blob/master/pdf604.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+				
+				
+				
+xi. Linux, The Complete Reference  </br>
+               Richard Petersen</br>
+                <a href="https://github.com/manjunath5496/books/blob/master/pdf617.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>	
 		
 		
 		
