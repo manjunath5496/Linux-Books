@@ -667,7 +667,33 @@ iii. Wicked Cool Shell Scripts: 101 Scripts for Linux, Mac OS X, and Unix System
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf2352.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 					
 								
+vi. Linux 101 Hacks  </br>
+                Ramesh Natarajan</br>
+                <a href="https://github.com/manjunath5496/books/blob/master/pdf2352.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+		
+vii. Linux Pocket Guide </br>
+                Daniel J. Barrett</br>
+                <a href="https://github.com/manjunath5496/Linux-commands/blob/master/pdf2518.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 				
+				
+viii. Linux Bible </br>
+                Christopher Negus</br>
+                <a href="https://github.com/manjunath5496/books/blob/master/pdf2519.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+					
+										
                 
                 
                 
