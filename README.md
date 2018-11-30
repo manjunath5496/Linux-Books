@@ -648,7 +648,7 @@ sh hello.sh command is used to execute the file (hello.sh) to print the output: 
 				
 ii. The Linux Programming Interface </br>
                 Michael Kerrisk</br>
-                <a href="https://github.com/manjunath5496/books/blob/master/pdf1047.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+                <a href="https://github.com/manjunath5496/Linux-commands/blob/master/pdf1047.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 				
 				
 iii. Wicked Cool Shell Scripts: 101 Scripts for Linux, Mac OS X, and Unix Systems </br>
@@ -658,18 +658,18 @@ iii. Wicked Cool Shell Scripts: 101 Scripts for Linux, Mac OS X, and Unix System
 				
  iv. Sams Teach Yourself Linux in 24 Hours </br>
                 Bill Ball, Stephen Smoogen</br>
-                <a href="https://github.com/manjunath5496/books/blob/master/pdf1430.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+                <a href="https://github.com/manjunath5496/Linux-commands/blob/master/pdf1430.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 				
 				
 				
  v. Linux 101 Hacks  </br>
                 Ramesh Natarajan</br>
-                <a href="https://github.com/manjunath5496/books/blob/master/pdf2352.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+                <a href="https://github.com/manjunath5496/Linux-commands/blob/master/pdf2352.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 					
 								
 vi. Linux 101 Hacks  </br>
                 Ramesh Natarajan</br>
-                <a href="https://github.com/manjunath5496/books/blob/master/pdf2352.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+                <a href="https://github.com/manjunath5496/Linux-commands/blob/master/pdf2352.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 		
 vii. Linux Pocket Guide </br>
                 Daniel J. Barrett</br>
@@ -678,7 +678,7 @@ vii. Linux Pocket Guide </br>
 				
 viii. Linux Bible </br>
                 Christopher Negus</br>
-                <a href="https://github.com/manjunath5496/books/blob/master/pdf2519.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+                <a href="https://github.com/manjunath5496/Linux-commands/blob/master/pdf2519.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 		
 ix. Linux For Dummies </br>
                 Richard Blum</br>
@@ -688,13 +688,13 @@ ix. Linux For Dummies </br>
 				
 x. C Programming in Linux </br>
                 David Haskins</br>
-                <a href="https://github.com/manjunath5496/books/blob/master/pdf604.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+                <a href="https://github.com/manjunath5496/Linux-commands/blob/master/pdf604.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 				
 				
 				
 xi. Linux, The Complete Reference  </br>
                Richard Petersen</br>
-                <a href="https://github.com/manjunath5496/books/blob/master/pdf617.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>	
+                <a href="https://github.com/manjunath5496/Linux-commands/blob/master/pdf617.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>	
 		
 		
 xii. Linux Fundamentals </br>
@@ -704,13 +704,13 @@ xii. Linux Fundamentals </br>
 				
 xiii. Beginning Linux Programming</br>
                 Neil Matthew</br>
-                <a href="https://github.com/manjunath5496/books/blob/master/pdf619.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+                <a href="https://github.com/manjunath5496/Linux-commands/blob/master/pdf619.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 				
 				
 				
 xiv. Advanced Linux Programming </br>
                Mark Mitchell</br>
-                <a href="https://github.com/manjunath5496/books/blob/master/pdf620.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+                <a href="https://github.com/manjunath5496/Linux-commands/blob/master/pdf620.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 					
 					
 xv. Linux in a Nutshell </br>
@@ -721,7 +721,7 @@ xv. Linux in a Nutshell </br>
 				
 xvi. Linux Networking CookBook</br>
                 Carla Schroder</br>
-                <a href="https://github.com/manjunath5496/books/blob/master/pdf736.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>	
+                <a href="https://github.com/manjunath5496/Linux-commands/blob/master/pdf736.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>	
 		
 		
 		
