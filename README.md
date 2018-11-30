@@ -713,7 +713,15 @@ xiv. Advanced Linux Programming </br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf620.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 					
 					
-		
+xv. Linux in a Nutshell </br>
+                Robert Love</br>
+                <a href="https://github.com/manjunath5496/Linux-commands/blob/master/pdf735.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+				
+				
+				
+xvi. Linux Networking CookBook</br>
+                Carla Schroder</br>
+                <a href="https://github.com/manjunath5496/books/blob/master/pdf736.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>	
 		
 		
 		
