@@ -640,6 +640,14 @@ sh hello.sh command is used to execute the file (hello.sh) to print the output: 
         zcat 2.txt.gz command is used to display the content of the gzip compressed text file (2.txt.gz) </br></br> <hr>
         
 
+
+
+
+<img src="smiley.gif" alt="Linux" height="238" width="480">
+
+
+
+
      
  i. UNIX and Linux System Administration HandBook </br>
                 Evi Nemeth, Garth Snyder, Ben Whaley, Trent Hein</br>
