@@ -129,7 +129,79 @@
                Robert Love</br>
                 <a href="https://github.com/manjunath5496/Linux-Books/blob/master/pdf (29).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>	
 			
+		
+25. Linux Kernel Development </br>
+               Robert Love</br>
+                <a href="https://github.com/manjunath5496/Linux-Books/blob/master/pdf (28).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+				
+				
+				
+26. Linux Administration Handbook</br>
+                Evi Nemeth</br>
+                <a href="https://github.com/manjunath5496/Linux-Books/blob/master/pdf (27).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>	
 			
+		
+			
+27. Linux From Scratch </br>
+               Gerard Beekmans</br>
+                <a href="https://github.com/manjunath5496/Linux-Books/blob/master/pdf (26).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+				
+				
+				
+28. Linux Device Drivers</br>
+               Nathan Meyers</br>
+                <a href="https://github.com/manjunath5496/Linux-Books/blob/master/pdf (25).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>	
+		
+		
+		
+			
+29. Kali Linux Revealed </br>
+               Mati Aharoni </br>
+                <a href="https://github.com/manjunath5496/Linux-Books/blob/master/pdf (24).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+				
+				
+				
+30. How Linux Works </br>
+               Brian Ward</br>
+                <a href="https://github.com/manjunath5496/Linux-Books/blob/master/pdf (23).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>	
+			
+		
+		
+			
+31. Ubuntu For Non-Geeks </br>
+               Rickford Grant </br>
+                <a href="https://github.com/manjunath5496/Linux-Books/blob/master/pdf (22).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+				
+				
+				
+32. Essential System Administration </br>
+               Æleen Frisch</br>
+                <a href="https://github.com/manjunath5496/Linux-Books/blob/master/pdf (21).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>	
+				
+					
+33. A Practical Guide to Linux Commands, Editors, and Shell Programming </br>
+               Mark G. Sobell </br>
+                <a href="https://github.com/manjunath5496/Linux-Books/blob/master/pdf (20).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+				
+				
+				
+34. Managing Linux Systems with Webmin </br>
+               Jamie Cameron</br>
+                <a href="https://github.com/manjunath5496/Linux-Books/blob/master/pdf (19).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>	
+					
+		
+		
+		
+		
+		
+			
+					
+										
+                
+                
+                
+                
+		
 		
 		
 		
