@@ -82,9 +82,53 @@
 		
 		
 		
+17. The Linux Programming Interface </br>
+               Michael Kerrisk</br>
+                <a href="https://github.com/manjunath5496/Linux-commands/blob/master/pdf (36).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+				
+				
+				
+18. The Art of Unix Programming</br>
+                Eric Steven Raymond</br>
+                <a href="https://github.com/manjunath5496/Linux-commands/blob/master/pdf (35).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>	
+			
+		
+			
+19. bash Cookbook </br>
+               Carl Albing</br>
+                <a href="https://github.com/manjunath5496/Linux-commands/blob/master/pdf (34).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+				
+				
+				
+20. Java Programming on Linux</br>
+               Nathan Meyers</br>
+                <a href="https://github.com/manjunath5496/Linux-commands/blob/master/pdf (33).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>	
 		
 		
 		
+			
+21. RHCSA / RHCE Red Hat Linux Certification Study Guide </br>
+               Michael Jang </br>
+                <a href="https://github.com/manjunath5496/Linux-commands/blob/master/pdf (32).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+				
+				
+				
+22. </br>
+               Nathan Meyers</br>
+                <a href="https://github.com/manjunath5496/Linux-commands/blob/master/pdf (33).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>	
+			
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+			
 					
 										
                 
