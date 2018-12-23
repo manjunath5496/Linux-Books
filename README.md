@@ -19,9 +19,9 @@
 				
 				
 				
- 5. Linux 101 Hacks  </br>
-                Ramesh Natarajan</br>
-                <a href="https://github.com/manjunath5496/Linux-commands/blob/master/pdf2352.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+ 5. The Linux Command Line  </br>
+                William E. Shotts</br>
+                <a href="https://github.com/manjunath5496/Linux-commands/blob/master/pdf (37).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 					
 								
 6. Linux 101 Hacks  </br>
