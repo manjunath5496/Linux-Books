@@ -118,8 +118,18 @@
                 <a href="https://github.com/manjunath5496/Linux-Books/blob/master/pdf (31).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>	
 			
 		
-		
-		
+				
+23. Linux Shell Scripting Cookbook </br>
+               Shantanu Tushar </br>
+                <a href="https://github.com/manjunath5496/Linux-Books/blob/master/pdf (30).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+				
+				
+				
+24. Linux System Programming </br>
+               Robert Love</br>
+                <a href="https://github.com/manjunath5496/Linux-Books/blob/master/pdf (29).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>	
+			
+			
 		
 		
 		
