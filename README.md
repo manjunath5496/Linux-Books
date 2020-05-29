@@ -1,6 +1,11 @@
 <table class="infobox vevent"><caption class="summary">Linux</caption>
 <tbody>
 <tr>
+<td colspan="2"><a class="image" title="Tux the penguin" href="150px-Tux.svg.png"><img src="150px-Tux.svg.png" srcset="150px-Tux.svg.png" alt="Tux the penguin" width="150" height="177" data-file-width="280" data-file-height="330" /></a>
+<div><a title="Tux (mascot)" href="https://en.wikipedia.org/wiki/Tux_(mascot)">Tux</a>&nbsp;the&nbsp;<a title="Penguin" href="https://en.wikipedia.org/wiki/Penguin">penguin</a>, mascot of Linux<sup id="cite_ref-LinuxOnLine2008_1-0" class="reference"></sup></div>
+</td>
+</tr>
+<tr>
 <th scope="row"><a class="mw-redirect" title="Software developer" href="https://en.wikipedia.org/wiki/Software_developer">Developer</a></th>
 <td>Community<br /><a title="Linus Torvalds" href="https://en.wikipedia.org/wiki/Linus_Torvalds">Linus Torvalds</a></td>
 </tr>
@@ -37,12 +42,12 @@
 <td><a title="DEC Alpha" href="https://en.wikipedia.org/wiki/DEC_Alpha">Alpha</a>,&nbsp;<a title="ARC (processor)" href="https://en.wikipedia.org/wiki/ARC_(processor)">ARC</a>,&nbsp;<a title="ARM architecture" href="https://en.wikipedia.org/wiki/ARM_architecture">ARM</a>,&nbsp;<a class="mw-redirect" title="C6x" href="https://en.wikipedia.org/wiki/C6x">C6x</a>,&nbsp;<a class="mw-redirect" title="H8/300" href="https://en.wikipedia.org/wiki/H8/300">H8/300</a>,&nbsp;<a title="Qualcomm Hexagon" href="https://en.wikipedia.org/wiki/Qualcomm_Hexagon">Hexagon</a>,&nbsp;<a title="Itanium" href="https://en.wikipedia.org/wiki/Itanium">Itanium</a>,&nbsp;<a class="mw-redirect" title="M68k" href="https://en.wikipedia.org/wiki/M68k">m68k</a>,&nbsp;<a class="mw-redirect" title="Microblaze" href="https://en.wikipedia.org/wiki/Microblaze">Microblaze</a>,&nbsp;<a title="MIPS architecture" href="https://en.wikipedia.org/wiki/MIPS_architecture">MIPS</a>, NDS32,&nbsp;<a title="Nios II" href="https://en.wikipedia.org/wiki/Nios_II">Nios II</a>,&nbsp;<a title="OpenRISC" href="https://en.wikipedia.org/wiki/OpenRISC">OpenRISC</a>,&nbsp;<a title="PA-RISC" href="https://en.wikipedia.org/wiki/PA-RISC">PA-RISC</a>,&nbsp;<a title="PowerPC" href="https://en.wikipedia.org/wiki/PowerPC">PowerPC</a>,&nbsp;<a title="RISC-V" href="https://en.wikipedia.org/wiki/RISC-V">RISC-V</a>,&nbsp;<a class="mw-redirect" title="S390" href="https://en.wikipedia.org/wiki/S390">s390</a>,&nbsp;<a title="SuperH" href="https://en.wikipedia.org/wiki/SuperH">SuperH</a>,&nbsp;<a title="SPARC" href="https://en.wikipedia.org/wiki/SPARC">SPARC</a>,&nbsp;<a class="mw-redirect" title="Unicore32" href="https://en.wikipedia.org/wiki/Unicore32">Unicore32</a>,&nbsp;<a title="X86" href="https://en.wikipedia.org/wiki/X86">x86</a>,&nbsp;<a class="mw-redirect" title="XBurst" href="https://en.wikipedia.org/wiki/XBurst">XBurst</a>,&nbsp;<a class="mw-redirect" title="Xtensa" href="https://en.wikipedia.org/wiki/Xtensa">Xtensa</a></td>
 </tr>
 <tr>
-<th scope="row"><a title="" href="https://en.wikipedia.org/wiki/Kernel_(operating_system)">Kernel</a>&nbsp;type</th>
+<th scope="row"><a title="Kernel (operating system)" href="https://en.wikipedia.org/wiki/Kernel_(operating_system)">Kernel</a>&nbsp;type</th>
 <td><a title="Monolithic kernel" href="https://en.wikipedia.org/wiki/Monolithic_kernel">Monolithic</a></td>
 </tr>
 <tr>
 <th scope="row"><a title="User space" href="https://en.wikipedia.org/wiki/User_space#USERLAND">Userland</a></th>
-<td><a title="GNU" href="https://en.wikipedia.org/wiki/GNU">GNU</a></td>
+<td><a title="GNU" href="https://en.wikipedia.org/wiki/GNU">GNU</a><sup id="cite_ref-7" class="reference"><a href="https://en.wikipedia.org/wiki/Linux#cite_note-7">[a]</a></sup></td>
 </tr>
 <tr>
 <th scope="row">Default&nbsp;<a title="User interface" href="https://en.wikipedia.org/wiki/User_interface">user interface</a></th>
@@ -50,7 +55,7 @@
 </tr>
 <tr>
 <th scope="row"><a title="Software license" href="https://en.wikipedia.org/wiki/Software_license">License</a></th>
-<td><a class="mw-redirect" title="GPLv2" href="https://en.wikipedia.org/wiki/GPLv2">GPLv2</a><sup id="cite_ref-8" class="reference"></sup>&nbsp;and others (the name "Linux" is a trademark)</td>
+<td><a class="mw-redirect" title="GPLv2" href="https://en.wikipedia.org/wiki/GPLv2">GPLv2</a><sup id="cite_ref-8" class="reference"></sup>&nbsp;and others (the name "Linux" is a trademark<sup id="cite_ref-10" class="reference"><a href="https://en.wikipedia.org/wiki/Linux#cite_note-10">[b]</a></sup>)</td>
 </tr>
 <tr>
 <th scope="row">Official website</th>
