@@ -1,7 +1,11 @@
-<table class="infobox vevent"><caption class="summary">Linux</caption>
+<table class="infobox vevent">
 <tbody>
 <tr>
-<th scope="row"><a class="mw-redirect" title="Software developer" href="https://en.wikipedia.org/wiki/Software_developer">Developer</a></th>
+<th scope="row">
+	<caption class="summary">Linux</caption>
+	
+	
+<a class="mw-redirect" title="Software developer" href="https://en.wikipedia.org/wiki/Software_developer">Developer</a></th>
 <td>Community<br /><a title="Linus Torvalds" href="https://en.wikipedia.org/wiki/Linus_Torvalds">Linus Torvalds</a></td>
 </tr>
 <tr>
